@@ -1,0 +1,229 @@
+       body{
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-image: url(fondo.png);
+           background-size:cover;
+             
+           
+}
+        
+        header {
+            background-color: #FDDC21;
+            color: #dbffdf;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0px 2px 12px 5px rgba(20, 20, 20, 0.3);
+            border-bottom-left-radius: 1em;
+            border-bottom-right-radius: 1em;
+            
+        }
+
+img.imgs{
+    border-radius: 0.5em;   
+}
+h1{
+     color: antiquewhite;
+    font-family: serif;
+    
+        text-shadow: 1px 0px 0 #008800, -1px 0 0 #008800, 0 1px 0 #008800, 0 -1px 0 #008800, 1px 1px #008800, -1px -1px 0 #008800, 1px -1px 0 #008800, -1px 1px 0 #008800;
+}
+.search{
+    font-size: 20px;
+    background-color: antiquewhite;
+    border: solid 5px #57B213;
+    border-color: #57B213;
+    border-radius: 0.5em;
+    width: 500px;
+}
+.search:hover{
+    background-color: #F5F1DE;
+}
+#srch{
+    font-size: 20px;
+    background-color: antiquewhite;
+    border: solid 5px #57B213;
+    border-color: #57B213;
+    border-radius: 0.5em;
+    width: 200px;
+}
+#srch:hover{
+    background-color: #F5F1DE;
+}
+.disp{
+    font-size: 15px;
+    background-color: antiquewhite;
+    border: solid 5px #57B213;
+    border-color: #57B213;
+    border-radius: 0.5em;
+    width: 100px;
+    
+}
+.disp2{
+    font-size: 15px;
+    background-color: antiquewhite;
+    border: solid 5px #57B213;
+    border-color: #57B213;
+    border-radius: 0.5em;
+    width: 200px;
+    
+}
+input[type=file]{
+    width: 500px;
+}
+.disp:hover{
+    background-color: #F5F1DE;
+}
+
+button.buscar{
+    
+    border-bottom-right-radius: 0.5em;
+    border-top-right-radius: 0.5em;
+    background-color: lightgray;
+}
+button:hover{
+    background-color: ghostwhite;
+}
+dropdown-menu{
+    background-color: red;
+}
+
+.pp{
+    font-size: 25px;
+    color:#288700;
+}
+
+label.txt{
+    
+    color: white;
+}
+fieldset.tabl1{
+    background-color: #D5FFA7;
+    border: solid 5px #80AB23;
+    padding: 25px;
+    margin-left:8%;
+    margin-right: 8%;
+    margin-top: 3%;
+    border-radius: 1em;
+}
+fieldset.tabl{
+    margin-left: 0.4%;
+    margin-top: 2%;
+    margin-right: 10%;
+    background-color: #BFECDF;
+}
+table.usuarios{
+    border: solid 3px;
+    background-color: cornsilk;
+    
+}
+.vista{
+    border: solid 3px #008800;
+    max-height: 245px;
+    min-height: 245px;
+    background-color: #D5FFA7;
+    
+    border-radius: 0.5em;
+    margin-left: 8%;
+}
+.vista:hover{
+    
+    box-shadow: 0px 2px 12px 5px rgba(20, 20, 20, 0.3);
+    
+    border: solid 3px #FFFFF5;
+}
+.vista2{
+    border: solid 1px #008800;
+    background-color: #F4FFD1;
+    border-radius: 0.5em;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.vista3{
+    
+    background-color: #F4FFD1;
+    border-radius: 0.5em;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    min-height: 97px;
+    max-height: 97px;
+}
+
+.adm{
+    border: solid 1px;
+    background-color: #00AEDD;
+}
+tbody.tabl{
+    border: solid 1px;
+    background-color: #E7FFFF;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    padding: 20px;
+}
+tr{
+        border: solid 1px;
+}
+.tablink {
+  background-color: #555;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 25%;
+}
+
+/* Change background color of buttons on hover */
+.tablink:hover {
+  background-color: #688456;
+    
+}
+
+#btn{
+    margin-left: 32%;  
+}
+
+footer{
+    background-color: #00AA00;
+    margin-bottom: 0%;
+    box-shadow: 0px 2px 12px 5px rgba(20, 20, 20, 0.3);
+}
+carousel slide{
+    color: gray;
+}
+textarea.int{
+    width: 400px;
+    height: 200px;
+    resize: none;
+    font-size: 15px;
+    background-color: antiquewhite;
+    border: solid 5px #57B213;
+    border-color: #57B213;
+    border-radius: 0.5em;
+    width: 500px;
+}
+.int:hover{
+    background-color: #F5F1DE;
+}
+#imgse:hover{
+    box-shadow: 0px 2px 12px 5px rgba(20, 20, 20, 0.3);
+}
+[href]{color: #573B00}
+
+fieldset.doc{
+    padding: 20px;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: #008800;
+    color: aliceblue;
+    box-shadow: 0px 2px 12px 5px rgba(20, 20, 20, 0.3);
+    
+}
+#infrm{
+    font-family:monospace;
+}

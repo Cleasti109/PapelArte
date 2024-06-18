@@ -1,0 +1,74 @@
+body{
+    background-image: url(fondo.png);
+    background-size: contain;
+    
+    margin: 0;
+    padding-right: 0;
+}
+
+fieldset.inc{
+    width:850px;
+    height: 690px;
+    border-radius: 1em;
+    border: solid 2px;
+    background-color: #FDDC21;
+    padding: 20px;
+    box-shadow: 0px 2px 5px 5px rgba(20, 20, 20, 0.3);
+}
+
+fieldset.peq{
+    border-radius: 1em;
+    border: solid 3px;
+    width: 790px;
+    font-size: 30;
+    height: 390px;
+    background-color: #D1F3C6;
+    padding: 2%;
+}
+
+fieldset.peq2{
+    border-radius: 1em;
+    border: solid 3px;
+    width: 790px;
+    font-size: 30;
+    height: 540px;
+    background-color: #D1F3C6;
+    padding: 2%;
+}
+
+input.ins{
+    font-size: 30px;
+    width: 400px;
+    background-color: #57AE96;
+    border: solid 5px #006E4E;
+    border-radius: 0.5em;
+}
+
+input.reg{
+    font-size: 25px;
+    background-color: #57AE96;
+    border: solid 5px #006E4E;
+    border-radius: 0.5em;
+    width: 500px;
+}
+
+input:hover{
+    background-color: #378C75;
+}
+
+button{
+    font-size: 40px;
+    background-color: #6DE5C3;
+    border: solid 5px #006E4E;
+    border-radius: 0.2em;
+    
+}
+
+button:hover{
+    background-color: #A9E5D4;
+}
+
+img.imgs{
+    border-radius: 2em;
+    box-shadow: 0px 2px 5px 5px rgba(20, 20, 20, 0.3);
+}

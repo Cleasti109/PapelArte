@@ -1,0 +1,16 @@
+body{
+    background-image: url(fond.png);
+    background-size: cover;
+    align-content: center;
+    padding-left: 30%;
+}
+fieldset.err{
+    border-radius: 1em;
+    border: solid 3px;
+    width: 500px;
+    font-size: 40;
+    height: 140px;
+    background-color: #F6847B;
+    font-style: italic;
+    
+}
